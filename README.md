@@ -18,4 +18,5 @@ This Software returns a 2-sheets Excel document. One sheet with a normalizate ta
 
 ![Tabla de final](output_1.png)
 
+Hint: (In this pictures, frequencies are not well calculated)
 
